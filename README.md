@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**faaraan1997/faaraan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Faaraan Kazi. My main interest lies in Machine Learning and Web-development.Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
+
+### Key Skills:
+-> Python, R, Django, Power BI, Tableau, Microsoft Power BI, MySQL, C, MongoDB, EJS, NodeJS, HTML5, CSS, Analytical Libraries like Pandas, NumPy, Matplotlib.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My [portfolio](https://portfolio-16e62.web.app/) ,my [email](https://portfolio-16e62.web.app/) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
 - 😄 Pronouns: My grammer is weak
 - ⚡ Fun fact: I stay hydrated while I am coding
--->
+
