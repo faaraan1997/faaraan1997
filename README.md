@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI and javascripts.
 - 💬 Ask me about ML libraries, python, HTML, CSS, REACT, PowerBI and Tableau
 - 📫 How to reach me: My [portfolio](https://portfolio-16e62.web.app/) ,my [email](https://portfolio-16e62.web.app/) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
-- 😄 Pronouns: My grammer is weak
+- 😄 Pronouns: My grammer is weak.
 - ⚡ Fun fact: I stay hydrated while I am coding
 
