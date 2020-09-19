@@ -13,7 +13,8 @@
  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/USERNAME"### Hi there 👋
+    link = "//twitter.com/USERNAME"
+### Hi there 👋
 
 I am Faaraan Kazi. My main interest lies in Machine Learning and Web-development.Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
 
