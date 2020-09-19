@@ -3,17 +3,13 @@
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+    link = "//linkedin.com/in/faaraan-kazi-935892191"
 
  [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/USERNAME"
+    link = "//github.com/faaraan1997"
 
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAME"
 ### Hi there 👋
 
 I am Faaraan Kazi. My main interest lies in Machine Learning and Web-development.Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
