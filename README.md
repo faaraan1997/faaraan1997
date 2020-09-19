@@ -1,10 +1,6 @@
 # Faaraan Kazi
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/faaraan-kazi-935892191"
-[![DevIncept logo image link](https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo)](https://www.linkedin.com/in/faaraan-kazi-935892191)                
+             
 
 ### Hi there 👋
 
