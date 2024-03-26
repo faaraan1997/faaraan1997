@@ -11,7 +11,7 @@ I am Faaraan Kazi. My main interest lies in Data Sciecnce & AI. Impeccable mathe
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning and web-development projects.
+- 🔭 I’m currently working on AI & ML projects.
 - 🌱 I’m currently learning best practices for ML and web-development
 - 👯 I’m looking to collaborate on ML and web-development 
 - 🤔 I’m looking for help with AI and javascripts.
