@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Faaraan Kazi. My main interest lies in Data Sciecnce & AI.Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
+I am Faaraan Kazi. My main interest lies in Data Sciecnce & AI. Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
 
 ### Key Skills:
 -> Data Science, Machine Learning, Deep Learning, LLMs, Python, R, Django, Power BI, Tableau, Microsoft Power BI, MySQL, C, MongoDB, EJS, NodeJS, HTML5, CSS, Analytical Libraries like Pandas, NumPy, Matplotlib.
