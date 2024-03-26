@@ -7,7 +7,7 @@
 I am Faaraan Kazi. My main interest lies in Machine Learning and Web-development.Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
 
 ### Key Skills:
--> Python, R, Django, Power BI, Tableau, Microsoft Power BI, MySQL, C, MongoDB, EJS, NodeJS, HTML5, CSS, Analytical Libraries like Pandas, NumPy, Matplotlib.
+-> Data Science, Machine Learning, Python, R, Django, Power BI, Tableau, Microsoft Power BI, MySQL, C, MongoDB, EJS, NodeJS, HTML5, CSS, Analytical Libraries like Pandas, NumPy, Matplotlib.
 
 Here are some ideas to get you started:
 
