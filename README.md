@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML and web-development 
 - 🤔 I’m looking for help with AI and javascripts.
 - 💬 Ask me about ML libraries, Python, LLMs, Deep Learning, NLP, PowerBI and Tableau
-- 📫 How to reach me: My [portfolio](https://portfolio-16e62.web.app/) ,my [email](mailto:faaraankazi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
+- 📫 How to reach me: My [portfolio]([https://portfolio-16e62.web.app/](https://faaraan1997.github.io/faaraankazi.github.io/)) ,my [email](mailto:faaraankazi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
 - 😄 Pronouns: My grammer is weak.
 - ⚡ Fun fact: I stay hydrated while I am coding
 
