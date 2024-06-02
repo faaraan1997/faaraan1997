@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI and javascripts.
 - 💬 Ask me about ML libraries, Python, LLMs, Deep Learning, NLP, PowerBI and Tableau
 - 📫 How to reach me: My [portfolio](https://faaraan1997.github.io/faaraankazi.github.io/) ,my [email](mailto:faaraankazi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
-- 😄 Pronouns:He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I stay hydrated while I am coding
 
