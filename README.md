@@ -6,6 +6,8 @@
 
 I am Faaraan Kazi. My main interest lies in Data Sciecnce & AI. Impeccable mathematical and analytical skills, combined with keenness on details and understanding the HOWs and WHYs of things. Goal oriented, determined and focused for details.
 
+I have fine-tuned large language models (LLMs) such as LLaVA and LLaMA using advanced techniques like Low-Rank Adaptation (LoRA) and Quantized Low-Rank Adaptation (QLoRA). These techniques have enhanced my ability to adapt pre-trained models for specific tasks efficiently, optimizing both performance and computational resources.
+
 ### Key Skills:
 -> Data Science, Machine Learning, Deep Learning, NLP, LLMs, Python, R, Django, Power BI, Tableau, Microsoft Power BI, MySQL, C, MongoDB, NodeJS, HTML5, CSS, Analytical Libraries like Pandas, NumPy, Matplotlib.
 
