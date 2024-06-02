@@ -14,9 +14,8 @@ I have fine-tuned large language models (LLMs) such as LLaVA and LLaMA using adv
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI & ML projects.
-- 🌱 I’m currently learning best practices for ML and web-development
-- 👯 I’m looking to collaborate on ML and web-development 
-- 🤔 I’m looking for help with AI and javascripts.
+- 🌱 I’m currently learning best practices for fine-tuning LLMs
+- 👯 I’m looking to collaborate on with LLMs project
 - 💬 Ask me about ML libraries, Python, LLMs, Deep Learning, NLP, PowerBI and Tableau
 - 📫 How to reach me: My [portfolio](https://faaraan1997.github.io/faaraankazi.github.io/) ,my [email](mailto:faaraankazi@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) address and [linkedin](https://www.linkedin.com/in/faaraan-kazi-935892191).
 - 😄 Pronouns: He/Him
