@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I stay hydrated while I am coding
 
+[![](https://visitcount.itsvg.in/api?id=faaraan1997&icon=2&color=0)](https://visitcount.itsvg.in)
